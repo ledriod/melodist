@@ -44,9 +44,20 @@ by Victoria Williams  [Author](https://www.amazon.co.uk/Victoria-Williams/e/B01L
     Grade Eight Music Theory: for ABRSM Candidates: Volume 8  
     (MyMusicTheory Complete Courses) Paperback – 28 Sep 2016
 
+.  
 
+__alexa rate__
 
+[rate](http://mymusictheory.com.rankank.com)
 
+- __mymusictheory.com traffic & worth estimations__
+- Purchase/Sale Value	US$408,176
+- Daily Unique Visitors	2,561
+- Daily Ads Revenue	US$9
+- Monthly Unique Visitors	77,854
+- Monthly Ads Revenue	US$296
+- Yearly Unique Visitors	935,405
+- Yearly Ads Revenue	US$3,563
 
 
 .  
