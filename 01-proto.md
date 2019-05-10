@@ -1,8 +1,55 @@
+# Music Theory Learning Sites
+
+.  
+
+## mymusictheory
+
+[www](https://www.mymusictheory.com)
+
+Music Theory Courses & Exam Preparation
+
+Join over 19,000 others and become a member of MyMusicTheory.com - it's free!
+
+We have 2531 guests and 18 members online
+
+[books](https://www.mymusictheory.com/learn-music-theory/books)
+
+[books](https://www.mymusictheory.com/site/566-abrsm-music-theory-course-books)
+
+by Victoria Williams  [Author](https://www.amazon.co.uk/Victoria-Williams/e/B01LYCH6V0/)
+
+- [grade 1](https://www.amazon.co.uk/Grade-One-Music-Theory-MyMusicTheory/dp/1530018579/)  
+    Grade One Music Theory: for ABRSM Candidates: Volume 1  
+    (MyMusicTheory Complete Courses) Paperback – 18 Feb 2016
+- [grade 2](https://www.amazon.co.uk/Grade-Two-Music-Theory-MyMusicTheory/dp/1530094569/)  
+    Grade Two Music Theory: for ABRSM Candidates: Volume 2  
+    (MyMusicTheory Complete Courses) Paperback – 28 Sep 2016
+- [grade 3](https://www.amazon.co.uk/Grade-Three-Music-Theory-MyMusicTheory/dp/1530098262/)  
+    Grade Three Music Theory: for ABRSM Candidates: Volume 3  
+    (MyMusicTheory Complete Courses) Paperback – 28 Sep 2016
+- [grade 4](https://www.amazon.co.uk/Grade-Four-Music-Theory-MyMusicTheory/dp/1530114381/)  
+    Grade Four Music Theory: for ABRSM Candidates: Volume 4  
+    (MyMusicTheory Complete Courses) Paperback – 28 Sep 2016
+- [grade 5](https://www.amazon.co.uk/Grade-Five-Music-Theory-MyMusicTheory/dp/1530154685/)  
+    Grade Five Music Theory: for ABRSM Candidates: Volume 5  
+    (MyMusicTheory Complete Courses) Paperback – 28 Sep 2016  
+     4.9 out of 5 stars    13 customer reviews
+- [grade 6](https://www.amazon.co.uk/Grade-Six-Music-Theory-MyMusicTheory/dp/1530907292/)  
+    Grade Six Music Theory: for ABRSM Candidates: Volume 6  
+    (MyMusicTheory Complete Courses) Paperback – 28 Sep 2016
+- [grade 7](https://www.amazon.co.uk/Grade-Seven-Music-Theory-MyMusicTheory/dp/1530907357/)  
+    Grade Seven Music Theory: for ABRSM Candidates: Volume 7  
+    (MyMusicTheory Complete Courses) Paperback – 28 Sep 2016
+- [grade 8](https://www.amazon.co.uk/Grade-Eight-Music-Theory-MyMusicTheory/dp/1530907381/)  
+    Grade Eight Music Theory: for ABRSM Candidates: Volume 8  
+    (MyMusicTheory Complete Courses) Paperback – 28 Sep 2016
 
 
 
 
 
+
+.  
 
 # Melody Search Sites
 
