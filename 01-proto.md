@@ -6,7 +6,24 @@
 
 # Melody Search Sites
 
-## Cantus Manuscript Database
+## SIMSSA
+
+__Single Interface for Music Score Searching and Analysis project (SIMSSA)__
+
+[www](https://simssa.ca)
+
+The Single Interface for Music Score Searching and Analysis project (SIMSSA) is teaching computers to recognize the musical symbols in digital images of musical scores, linking materials from the shelves of libraries and museums from around the world in a single digital forum.
+
+Our goals include:
+
+- Creation of a 21st-century architecture for processing music documents
+- Transformation of symbolic representations into searchable data
+- Search and analysis tools for large digital music collections
+- Public access to musical data that can be studied, analyzed, and performed
+
+
+
+### Cantus Manuscript Database
 
 [www](http://cantus.uwaterloo.ca)
 
